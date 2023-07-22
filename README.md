@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**dladukedev/dladukedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for checking out my work!
 
-Here are some ideas to get you started:
+### Projects I'm currently working on ⌨️
+- Bible Reading App
+- Wordle clone (Chromebook/tablet/keyboard support)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I'm thinking about 🤔
+- Distraction/Rabbit hole reducing browser
+- Markdown to AnnotatedString library
+
+### Blog ✍️
+Check out my writing on my personal site [dladukedev.com](www.dladukedev.com)
+
+### Contact me 📬
+Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
+
+### Support Me ☕
+Want to help me out? Buy me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4NCNGU)
