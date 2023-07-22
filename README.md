@@ -4,7 +4,7 @@ Thanks for checking out my work!
 
 ### Projects I'm currently working on ⌨️
 - Bible Reading App
-- Wordle clone (Chromebook/tablet/keyboard support)
+- [Wordle clone](https://github.com/dladukedev/wordle-clone-android) (Chromebook/tablet/keyboard support)
 
 ### Projects I'm thinking about 🤔
 - Distraction/Rabbit hole reducing browser
