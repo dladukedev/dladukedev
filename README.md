@@ -11,7 +11,7 @@ Thanks for checking out my work!
 - Markdown to AnnotatedString library
 
 ### Blog ✍️
-Check out my writing on my personal site [dladukedev.com](www.dladukedev.com)
+Check out my writing on my personal site [dladukedev.com](https://www.dladukedev.com)
 
 ### Contact me 📬
 Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
