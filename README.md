@@ -15,6 +15,7 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 
 [![Featured in Android Weekly Issue 580](https://androidweekly.net/issues/issue-580/badge)](https://androidweekly.net/issues/issue-580)
 [![Featured in Android Weekly Issue 582](https://androidweekly.net/issues/issue-582/badge)](https://androidweekly.net/issues/issue-582)
+[![Featured in Android Weekly Issue 583](https://androidweekly.net/issues/issue-583/badge)](https://androidweekly.net/issues/issue-583)
 
 ### Contact me 📬
 Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
