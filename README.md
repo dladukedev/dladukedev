@@ -5,7 +5,7 @@ Thanks for checking out my work!
 ### Projects I'm currently working on ⌨️
 - Distraction Free Browser
 
-### Projects I've recently wrapped up
+### Projects I've recently wrapped up ✅
 - [Bible Year Tracker](https://github.com/dladukedev/BibleYearTrackerAndroid)
 - [Wordle clone](https://github.com/dladukedev/wordle-clone-android) (Chromebook/tablet/keyboard support)
 
