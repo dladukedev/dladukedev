@@ -3,12 +3,16 @@
 Thanks for checking out my work!
 
 ### Projects I'm currently working on ⌨️
-- Bible Reading App
+- Distraction Free Browser
+
+### Projects I've recently wrapped up
+- [Bible Year Tracker](https://github.com/dladukedev/BibleYearTrackerAndroid)
 - [Wordle clone](https://github.com/dladukedev/wordle-clone-android) (Chromebook/tablet/keyboard support)
 
 ### Projects I'm thinking about 🤔
-- Distraction/Rabbit hole reducing browser
 - Markdown to AnnotatedString library
+- Stretching as Meditation App
+- Bible Year Tracker for iOS
 
 ### Blog ✍️
 Check out my writing on my personal site [dladukedev.com](https://www.dladukedev.com)
