@@ -20,9 +20,9 @@ Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
 ### Support Me ☕
 Want to help me out? Buy me a coffee!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4NCNGU)
-[PayPal](https://www.paypal.com/paypalme/djladuke)
-[Patreon](https://www.patreon.com/dladukedev)
+[![Ko-fi](https://img.shields.io/badge/Buy_me_a_Coffee_on_Ko--fi-434b57?logo=Ko-fi&logoColor=white)](https://ko-fi.com/donovanjladuke)
+[![PayPall](https://img.shields.io/badge/Contribue_with_PayPal-003087?logo=PayPal&logoColor=white)](https://www.paypal.com/paypalme/djladuke)
+[![Patreon](https://img.shields.io/badge/Support_me_on_Patreon-FF424D?logo=Patreon&logoColor=white)](https://www.patreon.com/dladukedev)
 
 ### Blog ✍️
 Check out my writing on my personal site [dladukedev.com](https://www.dladukedev.com)
