@@ -14,6 +14,16 @@ Thanks for checking out my work!
 - Stretching as Meditation App
 - Bible Year Tracker for iOS
 
+### Contact me 📬
+Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
+
+### Support Me ☕
+Want to help me out? Buy me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4NCNGU)
+[PayPal](https://www.paypal.com/paypalme/djladuke)
+[Patreon](https://www.patreon.com/dladukedev)
+
 ### Blog ✍️
 Check out my writing on my personal site [dladukedev.com](https://www.dladukedev.com)
 
@@ -24,12 +34,5 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [![Featured in Android Weekly Issue 585](https://androidweekly.net/issues/issue-585/badge)](https://androidweekly.net/issues/issue-585)
 [![Featured in Android Weekly Issue 587](https://androidweekly.net/issues/issue-587/badge)](https://androidweekly.net/issues/issue-587)
 [![Featured in Android Weekly Issue 588](https://androidweekly.net/issues/issue-588/badge)](https://androidweekly.net/issues/issue-588)
-
-### Contact me 📬
-Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
-
-### Support Me ☕
-Want to help me out? Buy me a coffee!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4NCNGU)
+[![Featured in Android Weekly Issue 589](https://androidweekly.net/issues/issue-589/badge)](https://androidweekly.net/issues/issue-589)
 
