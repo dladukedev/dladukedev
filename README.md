@@ -3,16 +3,17 @@
 Thanks for checking out my work!
 
 ### Projects I'm currently working on ⌨️
-- Distraction Free Browser
+- Bible Year Tracker for iOS/Vision Pro
 
 ### Projects I've recently wrapped up ✅
+- [Baseball State Machine](https://github.com/dladukedev/baseball-finite-state-machine/tree/main)
 - [Bible Year Tracker](https://github.com/dladukedev/BibleYearTrackerAndroid)
 - [Wordle clone](https://github.com/dladukedev/wordle-clone-android) (Chromebook/tablet/keyboard support)
 
 ### Projects I'm thinking about 🤔
+- Distraction Free Browser
 - Markdown to AnnotatedString library
 - Stretching as Meditation App
-- Bible Year Tracker for iOS
 
 ### Contact me 📬
 Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
