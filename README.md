@@ -45,4 +45,6 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [![Featured in Android Weekly Issue 600](https://androidweekly.net/issues/issue-600/badge)](https://androidweekly.net/issues/issue-600)
 [![Featured in Android Weekly Issue 601](https://androidweekly.net/issues/issue-601/badge)](https://androidweekly.net/issues/issue-601)
 [![Featured in Android Weekly Issue 602](https://androidweekly.net/issues/issue-602/badge)](https://androidweekly.net/issues/issue-602)
+[![Featured in Android Weekly Issue 604](https://androidweekly.net/issues/issue-604/badge)](https://androidweekly.net/issues/issue-604)
+[![Featured in Android Weekly Issue 606](https://androidweekly.net/issues/issue-606/badge)](https://androidweekly.net/issues/issue-606)
 
