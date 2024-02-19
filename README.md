@@ -3,7 +3,7 @@
 Thanks for checking out my work!
 
 ### Projects I'm currently working on ⌨️
-- Bible Year Tracker for iOS/Vision Pro
+- Recipe App
 
 ### Projects I've recently wrapped up ✅
 - [Baseball State Machine](https://github.com/dladukedev/baseball-finite-state-machine/tree/main)
