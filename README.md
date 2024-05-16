@@ -7,7 +7,7 @@ Thanks for checking out my work!
 
 ### Projects I've recently wrapped up ✅
 - [Baseball State Machine](https://github.com/dladukedev/baseball-finite-state-machine/tree/main)
-- [Bible Year Tracker](https://github.com/dladukedev/BibleYearTrackerAndroid) - Updated to Multi-module
+- [Bible Year Tracker](https://github.com/dladukedev/BibleYearTrackerAndroid) (Updated to multi-module)
 - [Wordle clone](https://github.com/dladukedev/wordle-clone-android) (Chromebook/tablet/keyboard support)
 
 ### Projects I'm thinking about 🤔
