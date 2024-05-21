@@ -52,4 +52,6 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [![Featured in Android Weekly Issue 615](https://androidweekly.net/issues/issue-615/badge)](https://androidweekly.net/issues/issue-615)
 [![Featured in Android Weekly Issue 619](https://androidweekly.net/issues/issue-619/badge)](https://androidweekly.net/issues/issue-619)
 [![Featured in Android Weekly Issue 621](https://androidweekly.net/issues/issue-621/badge)](https://androidweekly.net/issues/issue-621)
+[![Featured in Android Weekly Issue 623](https://androidweekly.net/issues/issue-623/badge)](https://androidweekly.net/issues/issue-623)
+[![As Seen In - jetc.dev Newsletter Issue #215](https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter_Issue_%23215-blue?logo=Jetpack+Compose&amp;logoColor=white)](https://jetc.dev/issues/215)
 
