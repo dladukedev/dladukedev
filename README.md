@@ -3,26 +3,26 @@
 Thanks for checking out my work!
 
 ### Projects I'm currently working on ⌨️
-- Poem KMP App
+- KMP Blog App
+- Regex Builder Kotlin DSL
 
 ### Projects I've recently wrapped up ✅
 - [Baseball State Machine](https://github.com/dladukedev/baseball-finite-state-machine/tree/main)
 - [Bible Year Tracker](https://github.com/dladukedev/BibleYearTrackerAndroid) (Updated to multi-module)
+  - [![Bible Year Tracker](https://img.shields.io/badge/Get_it_on-Google_Play-4C8460?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dladukedev.bibleyeartracker)
+
 - [Wordle clone](https://github.com/dladukedev/wordle-clone-android) (Chromebook/tablet/keyboard support)
 
 ### Projects I'm thinking about 🤔
 - Stretching as Meditation App
-- Regex Builder Library
 
 ### Contact me 📬
 Email - [dladukedev@gmail.com](mailto:dladukedev@gmail.com)
 
 ### Support Me ☕
-Want to help me out? Buy me a coffee!
+Want to help me out? Buy me a coffee! Pitching in even $1 helps keep my blog advertisment free.
 
-[![Ko-fi](https://img.shields.io/badge/Buy_me_a_Coffee_on_Ko--fi-434b57?logo=Ko-fi&logoColor=white)](https://ko-fi.com/donovanjladuke)
-[![PayPall](https://img.shields.io/badge/Contribue_with_PayPal-003087?logo=PayPal&logoColor=white)](https://www.paypal.com/paypalme/djladuke)
-[![Patreon](https://img.shields.io/badge/Support_me_on_Patreon-FF424D?logo=Patreon&logoColor=white)](https://www.patreon.com/dladukedev)
+[![Ko-fi](https://img.shields.io/badge/Buy_me_a_Coffee_on-Ko--fi-FF5E5B?logo=Ko-fi&logoColor=white)](https://ko-fi.com/donovanjladuke)
 
 ### Blog ✍️
 Check out my writing on my personal site [dladukedev.com](https://www.dladukedev.com)
@@ -54,4 +54,5 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [![Featured in Android Weekly Issue 621](https://androidweekly.net/issues/issue-621/badge)](https://androidweekly.net/issues/issue-621)
 [![Featured in Android Weekly Issue 623](https://androidweekly.net/issues/issue-623/badge)](https://androidweekly.net/issues/issue-623)
 [![As Seen In - jetc.dev Newsletter Issue #215](https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter_Issue_%23215-blue?logo=Jetpack+Compose&amp;logoColor=white)](https://jetc.dev/issues/215)
+[![Featured in Android Weekly Issue 626](https://androidweekly.net/issues/issue-626/badge)](https://androidweekly.net/issues/issue-626)
 
