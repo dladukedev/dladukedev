@@ -59,4 +59,7 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [![Featured in Android Sweets 06/13/24](https://img.shields.io/badge/Featured%20in%20Android%20Sweets-June%2013%2C%202024-4C8772)](https://infinum.com/android-sweets/)
 [![Featured in Android Weekly Issue 628](https://androidweekly.net/issues/issue-628/badge)](https://androidweekly.net/issues/issue-628)
 [![As Seen In - jetc.dev Newsletter Issue #220](https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter_Issue_%23220-blue?logo=Jetpack+Compose&amp;logoColor=white)](https://jetc.dev/issues/220)
+[![As Seen In - jetc.dev Newsletter Issue #222](https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter_Issue_%23222-blue?logo=Jetpack+Compose&amp;logoColor=white)](https://jetc.dev/issues/222)
+[![Featured in Android Weekly Issue 634](https://androidweekly.net/issues/issue-634/badge)](https://androidweekly.net/issues/issue-634)
+[![Featured in Android Weekly Issue 636](https://androidweekly.net/issues/issue-636/badge)](https://androidweekly.net/issues/issue-636)
 
