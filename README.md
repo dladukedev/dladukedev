@@ -60,7 +60,7 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [634](https://androidweekly.net/issues/issue-634)
 [636](https://androidweekly.net/issues/issue-636)
 [639](https://androidweekly.net/issues/issue-639)
-
+[641](https://androidweekly.net/issues/issue-641)
 
 [![As Seen In - jetc.dev Newsletter](https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter-blue?logo=Jetpack+Compose&amp;logoColor=white)](https://jetc.dev/)
 
@@ -69,6 +69,7 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [220](https://jetc.dev/issues/220)
 [222](https://jetc.dev/issues/222)
 [231](https://jetc.dev/issues/231)
+[233](https://jetc.dev/issues/233)
 
 [![Featured in Android Sweets](https://img.shields.io/badge/Featured%20in%20Android%20Sweets-June%2013%2C%202024-4C8772)](https://infinum.com/android-sweets/)
 
