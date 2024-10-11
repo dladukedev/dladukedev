@@ -72,7 +72,7 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [231](https://jetc.dev/issues/231)
 [233](https://jetc.dev/issues/233)
 
-[![Featured in Android Sweets](https://img.shields.io/badge/Featured%20in%20Android%20Sweets-June%2013%2C%202024-4C8772)](https://infinum.com/android-sweets/)
+[![Featured in - Android Sweets](https://img.shields.io/badge/Featured%20in-Android%20Sweets-4C8772)](https://infinum.com/android-sweets/)
 
 06/13/24
 10/10/24
