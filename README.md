@@ -61,6 +61,7 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [636](https://androidweekly.net/issues/issue-636)
 [639](https://androidweekly.net/issues/issue-639)
 [641](https://androidweekly.net/issues/issue-641)
+[643](https://androidweekly.net/issues/issue-643)
 
 [![As Seen In - jetc.dev Newsletter](https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter-blue?logo=Jetpack+Compose&amp;logoColor=white)](https://jetc.dev/)
 
@@ -74,3 +75,4 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [![Featured in Android Sweets](https://img.shields.io/badge/Featured%20in%20Android%20Sweets-June%2013%2C%202024-4C8772)](https://infinum.com/android-sweets/)
 
 06/13/24
+10/10/24
