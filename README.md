@@ -62,6 +62,7 @@ Check out my writing on my personal site [dladukedev.com](https://www.dladukedev
 [639](https://androidweekly.net/issues/issue-639)
 [641](https://androidweekly.net/issues/issue-641)
 [643](https://androidweekly.net/issues/issue-643)
+[643](https://androidweekly.net/issues/issue-645)
 
 [![As Seen In - jetc.dev Newsletter](https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter-blue?logo=Jetpack+Compose&amp;logoColor=white)](https://jetc.dev/)
 
